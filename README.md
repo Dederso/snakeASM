@@ -71,5 +71,5 @@ Para rodar este projeto, você precisará de:
 🤖Texto produzido com ajuda de inteligência artificial.
 
 <div align="center">
-  <sub>Projeto desenvolvido para a disciplina de Arquitetura de Computadores - 2025/2</sub>
+  <sub>Projeto desenvolvido para a disciplina de Sistemas Embarcados </sub>
 </div>
